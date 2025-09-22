@@ -75,7 +75,7 @@
   - 기간별 통계/차트 API, 커뮤니티(게시글/댓글/신고)
   - 관리자: 회원/권한/신고 처리, 포인트 정책 관리
 - **Tech**: Spring Boot, Spring Security, MyBatis/JPA, Oracle DB, React(Vite), Tailwind, Docker, Nginx, GitHub Actions  
-- **Link**: [Notion](https://desert-cheshire-6d7.notion.site) · [Backend Repo](#) · [Frontend Repo](#) · [Demo](#)
+- **Link**: [Notion](https://desert-cheshire-6d7.notion.site) · [Backend&Frontend Repo](https://github.com/daewook0401/EcoInsight)
 
 ### 2) NomNom — 지역 맛집 예약·리뷰 (개인/팀)
 - **역할**: DB 모델링, 예약/리뷰 API, Kakao OAuth, JWT 인증
@@ -83,7 +83,7 @@
   - 가게/예약/리뷰 CRUD, 즐겨찾기, 검색/필터
   - 소셜 로그인(Kakao), 사용자 프로필/비밀번호 변경
 - **Tech**: Spring Boot, MyBatis, Oracle DB, React(Vite), Tailwind, Docker, Nginx  
-- **Link**: [Notion](#) · [Backend Repo](#) · [Frontend Repo](#) · [Demo](#)
+- **Link**: [Notion](https://desert-cheshire-6d7.notion.site/NomNom-239e0ceea64080e5a4bce6f88ac5f42d?pvs=74) · [Backend Repo](https://github.com/daewook0401/NomNom_front) · [Frontend Repo](https://github.com/daewook0401/NomNom_back)
 
 ---
 
