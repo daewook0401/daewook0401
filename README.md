@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:daewook0401@naver.com"><img alt="Email" src="https://img.shields.io/badge/Email-daewook0401@naver.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/daewook0401"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-daewook0401-111827?style=for-the-badge&logo=github"></a>
-  <a href="https://desert-cheshire-6d7.notion.site"><img alt="Notion" src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://desert-cheshire-6d7.notion.site/1f8e0ceea6408067a437ffd6aa96e406"><img alt="Notion" src="https://img.shields.io/badge/Portfolio(Notion)-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
   <!-- 필요 시 LinkedIn/Blog 추가 -->
 </p>
 
